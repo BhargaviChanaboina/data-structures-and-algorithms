@@ -1,3 +1,6 @@
+
+// Problem: Find minimum number of coins that make a given value
+
 // link: https://practice.geeksforgeeks.org/problems/number-of-coins1824/1
 // greedy based approach does not work here. It works only when coins are given in an order such that the sum of no (2 or many) coins
 // that are to the left of a current coin is greater than the current coin
